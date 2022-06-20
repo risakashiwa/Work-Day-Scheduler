@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Times-roman', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -48,7 +48,7 @@ textarea {
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #ff9693;
   color: white;
 }
 
@@ -61,7 +61,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #98e4f5;
   color: white;
 }
 
